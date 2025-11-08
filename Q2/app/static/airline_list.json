@@ -1,0 +1,24 @@
+{
+  "indian_airlines": [
+    "IndiGo",
+    "Air India",
+    "SpiceJet",
+    "Vistara",
+    "GoAir",
+    "AirAsia India",
+    "Akasa Air",
+    "Alliance Air",
+    "Star Air",
+    "TruJet"
+  ],
+  "international_airlines": [
+    "Emirates",
+    "Qatar Airways",
+    "Singapore Airlines",
+    "Etihad Airways",
+    "British Airways",
+    "Lufthansa",
+    "Thai Airways",
+    "Malaysia Airlines"
+  ]
+}

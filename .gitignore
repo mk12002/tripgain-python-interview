@@ -1,0 +1,38 @@
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore test output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ignore build artifacts
+*.egg-info/
+dist/
+build/
